@@ -1,6 +1,6 @@
 <div align="center"> 
   <a href="https://github.com/Certus-One">
-    <img src="https://i.imgur.com/uYKvE6m.png" alt="Certus One Logo" width="300" height="300">
+    <img src="https://i.imgur.com/VuMngtt.png" alt="Certus One Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Certus One</h3>
